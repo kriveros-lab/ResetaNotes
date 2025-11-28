@@ -1,0 +1,227 @@
+{
+   "checksum": "84917d04bbce2a7bde9290ba1b2ccc0f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13341962229302346",
+            "date_last_used": "13406517406181423",
+            "guid": "ef009f86-453f-4903-a847-1182c2ae93de",
+            "id": "11",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/?hl=es#inbox",
+            "visit_count": 14
+         }, {
+            "date_added": "13342058928434942",
+            "date_last_used": "0",
+            "guid": "4218c709-1d05-4220-8b30-603d53525090",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Canva",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13317477860081862",
+            "date_last_used": "13381298219402455",
+            "guid": "de6637aa-72ff-43b4-a7c5-4b2b3a4539bb",
+            "id": "13",
+            "name": "Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com.ar/",
+            "visit_count": 1
+         }, {
+            "date_added": "13338450465091058",
+            "date_last_used": "0",
+            "guid": "9eb895e6-2ef4-455b-ac08-201037d8e50f",
+            "id": "14",
+            "name": "D.M.V.: Manuales de Dungeons & Dragons 3.5 (en español)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dmvega.blogspot.com/2011/03/manuales-de-dungeons-dragons-35-en.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13356649179059609",
+            "date_last_used": "0",
+            "guid": "515f2a55-d307-4aaa-9455-0bffd792c1e7",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PDB - Analista de Sistemas",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.telegram.org/a/#-1001382820458",
+            "visit_count": 0
+         }, {
+            "date_added": "13356751683091015",
+            "date_last_used": "0",
+            "guid": "991d564b-6a89-495a-b054-10405dca83b7",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Curso: Comunicación visual",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aulapdb.redarg.ar/course/view.php?id=105",
+            "visit_count": 0
+         }, {
+            "date_added": "13357851299537244",
+            "date_last_used": "13408658608201700",
+            "guid": "7da7007d-0d7c-4cd8-88b2-11e34df8308b",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "mailpio",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/2/#inbox",
+            "visit_count": 43
+         }, {
+            "date_added": "13356751694323123",
+            "date_last_used": "13399089179796915",
+            "guid": "56615a66-c5c5-4644-9353-5ccf5dd9dcb7",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Profesorado",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aulapdb.redarg.ar/my/",
+            "visit_count": 5
+         }, {
+            "date_added": "13361315230417865",
+            "date_last_used": "0",
+            "guid": "92a04fdb-0f39-4a62-93c7-94f33de4db99",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Better Combat [Fabric & Forge] - Minecraft Mods - CurseForge",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
+            "visit_count": 0
+         }, {
+            "children": [  ],
+            "date_added": "13363138828932416",
+            "date_last_used": "0",
+            "date_modified": "13363138828932416",
+            "guid": "27263cf3-2332-4203-ac9f-c133df8b9abb",
+            "id": "20",
+            "name": "Nueva carpeta",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13408810559780707",
+         "date_last_used": "0",
+         "date_modified": "13361315230417865",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13363138807200779",
+               "date_last_used": "0",
+               "guid": "f397956a-72a8-40d1-b74b-e78000e5df13",
+               "id": "7",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Boss Refreshed - Files - Minecraft Resource Packs - CurseForge",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.curseforge.com/minecraft/texture-packs/boss-refreshed/files/all?page=1&pageSize=20",
+               "visit_count": 0
+            }, {
+               "date_added": "13363140693671502",
+               "date_last_used": "0",
+               "guid": "033dc5c5-9368-45f3-9384-195da986aa44",
+               "id": "8",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Better Weaponry - Compatible with Better Combat - Files - Minecraft Mods - CurseForge",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.curseforge.com/minecraft/mc-mods/better-weaponry-compatible-with-better-combat/files/all?page=1&pageSize=20",
+               "visit_count": 0
+            }, {
+               "date_added": "13393655842050994",
+               "date_last_used": "0",
+               "guid": "597d18ea-353f-4e8a-897c-23e1196a3948",
+               "id": "9",
+               "name": "| LinkedIn",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.linkedin.com/in/esteban-acosta-goldaraz-20706736a/",
+               "visit_count": 1
+            }, {
+               "date_added": "13396599625913124",
+               "date_last_used": "0",
+               "guid": "4067e529-1a82-4af3-9b3e-2347f0f03bc2",
+               "id": "10",
+               "name": "BLACKBOX.AI",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.blackbox.ai/",
+               "visit_count": 1
+            } ],
+            "date_added": "13363138828932721",
+            "date_last_used": "0",
+            "date_modified": "13396599625913124",
+            "guid": "a4f18681-22a3-44fd-9b44-c00491d467bf",
+            "id": "6",
+            "name": "mods",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13408810559780707",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13408810559780707",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCColn8GaAQAAEgAqGDlTdFZnUmJvcTUwY0pHYmtqRlpHUnc9PUgDoAYHEq4BCBMSqQEKHGJxcSsvcFZXT01qNzRkZ2trTHNzOHdHRkZwUT0SJDkyYTA0ZmRiLTBmMzktNGE2Mi05M2M3LTk0ZjMzZGU0ZGI5ORgAIAAoADCa2vfqgTI486nx3fsxQPOp8d37MUocS0c1WFZwS09wdkFkZ3hrUnNZOEtlL0g4UGJrPVogIh7/70VuL2JJUEREVnFhWUNnRFh6ckxRY1J4WTRMZz1lep8AvsI+AmAFEq4BCBQSqQEKHHhWa0Y5MDk0c2RNeTFTRHlueGdOTU40N05JRT0SJDI3MjYzY2YzLTIzMzItNDIwMy1hYzlmLWMxMzNkZjhiOWFiYhgAIAAoADDHh7nDgjI4sIi5w4IyQLCIucOCMkocZGNmWm9uMWJScHN6dEJ3QzA3MGtlb3laL3hvPVogIh7/+3RIcHBvU0VJdVpSZXFPUjQvSm1ITFNXQSs5ND1lAAAAAMI+AmAAEq4BCBISqQEKHGRqL2tWdWErRGdqZTRJZ0lXc1NrWWltYThoMD0SJDU2NjE1YTY2LWM1YzUtNDY0NC05MzUzLTVjY2Y1ZGQ5ZGNiNxgAIAAoADCLm/S5iDM4+J/p3eoxQPif6d3qMUoceHhGU2Q5Sno3MUlKU2ZOaDcwTFZEM09XWjNBPVogIh7/3kt0R2x0OUhLdVFxWERNUHp1Nk9sOW9mUzFmUT1lC/O2W8I+AmAFEq4BCBESqQEKHFkxN2ZFbThGb2JTZjdNTE45dTB0Z1YyQklPOD0SJDdkYTcwMDdkLTBkN2MtNGNkOC04OGIyLTExZTM0ZGY4MzA4YhgAIAAoADCpyvyMrDM45KOU6u4xQOSjlOruMUocTjg5a0Y0OFU1cmZyaVJrdnV3UXoxMmtSdEljPVogIh7/vUsrZTlQdnoyMkhUM093RGExOGhiUHl3Z3dJaz1lIjmYNsI+AmAFEq0BCA8SqAEKHGg2WVRNbnkydlJpS2tQeUhTWkVtSkVvUnlvbz0SJDUxNWYyYTU1LWQzMDctNGFhYS05NDU1LTBiZmZkNzkyYzFlNxgAIAAoADCe2vfqgTI4rJj4rOoxQKyY+KzqMUocQ21wTW1WblQ4WUlQUFdTQSsrUThibkZnYk5rPVofIh3+RnlWUWFBV0RSK0c1T21EODBKc1JDR3FMcXNVPWWAVHWOwj4CYAUSrQEIEBKoAQocd09rdk1ubWZPWUM1YWYwK3JpQTM1QlhYaXNzPRIkOTkxZDU2NGItNmE4OS00OTVhLWIwNTQtMTA0MDVkY2E4M2I3GAAgACgAMO/Z5LqFMzj0yejd6jFA9Mno3eoxShxZZkRqMUtRMTl0NFdOWThGM3BFRTVHV2E0dHc9Wh8iHf8yMmlSdlRFQ0hiaU0wNm1rd3JBTDBYMjFCcmc9ZQvztlvCPgJgBRKtAQgOEqgBChxwT1Nocld2L3hQcGdJdGZWSFJhN1pmQml5K009EiQ5ZWI4OTVlNi0yZWY0LTQ1NWItYWMwOC0yMDEwMzdkOGU1MGYYACAAKAAwmJWnyrgxOMiG8eK3MUDIhvHitzFKHFN3TEZYaFlTMkhHUHV5YS9xUElZZXFVaHg1MD1aHyId+0tqcXQ4c3g4Qjl4Y0lvdHFCS0JjcEhYaWRHUT1l+uj/GMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGZlOGM3NGE2LWUzYTUtNTVhZC1iNzBmLTRjNmQ1NDM0NmZiMBgAIAAoADD2gLn9szE40Ia5/bMxQNCGuf2zMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQwYTViMmExMC0xNzdjLTU3NjctOGVkYy0xNzI0NzNhYTcwMzYYACAAKAAw94C5/bMxOO6Guf2zMUDuhrn9szFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEIChKoAQoceENQSFRDNVJjS284b0JHSkpxOFpKNmdnZ0lrPRIkNDA2N2U1MjktMWE4Mi00YWYzLTliM2UtMjM0N2YwZjAzYmMyGAAgACgAMK+h5bqFMzjoruW6hTNA6K7luoUzShxRSmp4NXV0RTJESE1COU5FVnpXZ2lvb1RaclE9Wh8iHd5aTUgrMjNZRDV0djhTMi9Mc0RDaGgvdlcvazA9ZUKVjnbCPgJgBRKsAQgLEqcBChxQOFF0Nm1neHB1SnU5Z0NHWXVaZDNzYzFsdTg9EiRlZjAwOWY4Ni00NTNmLTQ5MDMtYTg0Ny0xMTgyYzJhZTkzZGUYACAAKAAw86n7j6QzONjMuf2zMUDYzLn9szFKHGpUTllDK3hKK0NPdlQ5YXJuNXhUa3RyRFFnOD1aHiIcbWZyWXE2YnViY2ZQOEsvS21BcnZkcEp5cnFNPWUiOZg2wj4CYAUSrQEICRKoAQocMENQNkJXUHcvYzd2YjZjczlOYytiSmxya3E0PRIkNTk3ZDE4ZWEtMzUzZi00ZThhLTg5N2MtMjNlMTE5NmEzOTQ4GAAgACgAMJ2QjJv0Mjj634ub9DJA+t+Lm/QyShxYNllqTE9oUklTeW1rODAvVWNkL0hnSzM3Y1k9Wh8iHbxEZGQ3Wi9XU05mQmg3bjhjSGpXeFFRUU8vTUU9ZS/nE6/CPgJgBRKsAQgIEqcBChxXOUdiUkpjZDRpc2RObDQwdTZwQzQ0dEkzdjg9EiQwMzNkYzVjNS05MzY4LTQ1ZjMtOTM4NC0xOTVkYTk4NmFhNDQYACAAKAAw0/CqxIIyOJXxqsSCMkCV8arEgjJKHHVBV29VY0NEVG05WmNkRndndk9lMXVrbjE1OD1aHiIceUhTMkhaaFVzSGFyV1hHSENWYlhsWkRhY3RzPWV6nwC+wj4CYAUSrAEIBxKnAQocT1lOOFpIcS8rMitHZGpwQUtqL3BQL0JwUVVZPRIkZjM5Nzk1NmEtNzJhOC00MGQxLWI3NGItZTc4MDAwZTVkZjEzGAAgACgAMMmHucOCMjjg3rfDgjJA4N63w4IyShw1eGRvVHlzSURhM0MzNXlxVWloOUlvTExYclU9Wh4iHForSjVFcWRZQW5LNFhuRkVIMktpNzVwM2hacz1lep8AvsI+AmAFEqwBCAYSpwEKHHViK3pWU0N3YytZeWZoUVRWeDBISHdyVVV5OD0SJGE0ZjE4NjgxLTIyYTMtNDRmZC05YjQ0LWMwMDQ5MWQ0NjdiZhgAIAAoADDIh7nDgjI404i5w4IyQNOIucOCMkocRHcwMlA2Y2RXLzRkOVUxaDlROFROejlLNlhRPVoeIhxWODVJenNBWVM5S3RCaXRzSi9hYXczL1lJV009ZQAAAADCPgJgABKtAQgNEqgBChx6NGVFblRRWVlXSW11aThYSEoyWVJ5ZjMwQjg9EiRkZTY2MzdhYS03MmZmLTQzYjQtYTdjNS00YjJiM2E0NTM5YmIYACAAKAAw8NnkuoUzOK2G8eK3MUCthvHitzFKHFZzbGF5N2dubnVrRUN0WXRxTEFkRVJ0eHBOUT1aHyId7VpldU9EeDNxK2ZnR1pWR0twVlRaMlROcjNzST1llOkWFMI+AmAFEq0BCAwSqAEKHGh0YkZUeHQvVDZ2S0s1bVJ2aEMvS0dIZlRoND0SJDQyMThjNzA5LTFkMDUtNDIyMC04YjMwLTYwM2Q1MzUyNTA5MBgAIAAoADDYsuL/szE4/YLi/7MxQP2C4v+zMUocSGdER0t6SmF0eUtUWU90SnNmQVhNVysxdjJnPVofIh3bYTIzUHFLNjZ3cFVONmVya3lkU1FhR2w4TUdVPWXO5Upawj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNDVhOTJhOGMtMzJhMi01N2UyLTljNTctNGIzMmE0MTAzNTRlGAAgACgAMPuAuf2zMTjIh7n9szFAyIe5/bMxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
