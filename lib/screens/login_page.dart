@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'widgets.dart'; // HeaderWidget, LabelWidget y CustomButton
+import 'home_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -138,25 +139,29 @@ class _LoginPageState extends State<LoginPage> {
                       ],
                     ),
 
-                    const SizedBox(height: 20),
-
-                    // Botón iniciar sesión
                     SizedBox(
                       width: 200,
                       child: ElevatedButton(
                         style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.orange,
                           shape: const RoundedRectangleBorder(
-                              borderRadius: BorderRadius.zero), // rectángulo
+                              borderRadius: BorderRadius.zero),
                           padding: const EdgeInsets.symmetric(vertical: 15),
                         ),
-                        onPressed: () {},
+                        onPressed: () {
+                          // 👉 Navegación al HomePage
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context) => const HomePage()),
+                          );
+                        },
                         child: const Text(
                           "Iniciar sesión",
                           style: TextStyle(color: Colors.white),
                         ),
                       ),
                     ),
+
 
                     const SizedBox(height: 15),
 
